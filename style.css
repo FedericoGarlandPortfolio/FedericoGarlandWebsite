@@ -1,0 +1,9 @@
+no-line {
+    margin: 0; /* Removes all margins around the <ul> */
+    padding: 0; /* Removes all padding around the <ul> */
+    list-style-position: inside; /* Ensures the bullets are inside the <ul> without extra spacing */
+}
+
+no-line li {
+    margin-bottom: 5px; /* Optional: Adds some space between the list items for readability */
+}
